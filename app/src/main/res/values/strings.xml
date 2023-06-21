@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NSSFWeather</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">NSSF Weather</string>
+    <string name="nav_header_subtitle">Making Lives Better</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_search_locations">Search Locations</string>
+    <string name="menu_fav_locations">Favorite Locations</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="today_label">Today</string>
+    <string name="sunny">Sunny</string>
+    <string name="today_min">min</string>
+    <string name="today_current">Current</string>
+    <string name="today_max">Max</string>
+
+    <string name="google_places_id">AIzaSyDiU8t57wQX_LxxJioIxSqSCwYkV9d2duw</string>
+    <string name="action_search">Search Places</string>
+</resources>
